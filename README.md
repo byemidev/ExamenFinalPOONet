@@ -1,7 +1,8 @@
 # Lanzar el proyecto 
+
 ## a tener en cuenta ..
-1- Crear base de datos SQLServer con el nombre : ReservasMVC 
-2 - Cambiar cadena de conexion de configuration. .json file
+1. Crear base de datos SQLServer con el nombre : ReservasMVC 
+2. Cambiar cadena de conexion de configuration. .json file
       Add-Migration -Context ApplicationDbContext "name" --> no deberia hacer falta 
       Add-Migration -Context ReservasDbContext "anothername" --> no deberia hacer falta 
       Update-Database -Contex NombreContext (uno por cada contexto)
