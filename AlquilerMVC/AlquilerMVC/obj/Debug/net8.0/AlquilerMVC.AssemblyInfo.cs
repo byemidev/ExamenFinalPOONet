@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlquilerMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f4fb275d4e384ffc6faa8fdbf4badfb007a04e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c588635879f1cd9211018bfaf545c78ee10365e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlquilerMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlquilerMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
