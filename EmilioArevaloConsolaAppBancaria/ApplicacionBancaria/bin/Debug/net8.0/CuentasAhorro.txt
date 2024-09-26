@@ -1,8 +1,0 @@
-
-Nombre:  
-DNI: dni 
-		Direccion: dir 
-		Fecha Nacimiento: 26/09/2024 20:33:20
-		Saldo anterior: 400,84 
-		Imgresos: 100,25 
-		Retiros: 50,2
