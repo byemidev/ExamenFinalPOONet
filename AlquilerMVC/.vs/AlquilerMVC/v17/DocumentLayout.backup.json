@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,24 +67,20 @@
       "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Migrations\\ReservasDb\\20240925164620_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlquilerMVC\\Migrations\\ReservasDb\\20240925164620_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Migrations\\20240925164605_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlquilerMVC\\Migrations\\20240925164605_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\data\\reservasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\data\\reservasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\migrations\\reservasdb\\20240925164620_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\migrations\\reservasdb\\20240925164620_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\examenfinalpoonet\\alquilermvc\\alquilermvc\\migrations\\20240925164605_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDCB39-CDD6-4AC3-92B6-01166B5E7CF8}|AlquilerMVC\\AlquilerMVC.csproj|solutionrelative:alquilermvc\\migrations\\20240925164605_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Home\\Index.cshtml",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "AlquilerMVC\\wwwroot\\js\\site.js",
@@ -115,12 +115,11 @@
               "RelativeToolTip": "AlquilerMVC\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-25T17:32:55.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:32:55.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -128,12 +127,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:28:51.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:28:51.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Shared\\Error.cshtml",
@@ -141,12 +139,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:28:45.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:28:45.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\_ViewImports.cshtml",
@@ -154,12 +151,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:28:43.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:28:43.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\_ViewStart.cshtml",
@@ -167,12 +163,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:28:41.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:28:41.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Shared\\_Layout.cshtml",
@@ -180,12 +175,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:26:18.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:26:18.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Reservas\\Edit.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Reservas\\Edit.cshtml",
@@ -193,12 +187,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Reservas\\Edit.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:18:07.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:18:07.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Reservas\\Delete.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Reservas\\Delete.cshtml",
@@ -206,12 +199,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Reservas\\Delete.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:18:01.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:18:01.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Shared\\_LoginPartial.cshtml",
@@ -219,12 +211,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T17:17:57.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:17:57.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Controllers\\HomeController.cs",
@@ -232,12 +223,11 @@
               "RelativeToolTip": "AlquilerMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T17:02:11.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T17:02:11.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Reservas\\Create.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Reservas\\Create.cshtml",
@@ -245,12 +235,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Reservas\\Create.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T16:50:52.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:50:52.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Reservas\\Details.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Reservas\\Details.cshtml",
@@ -258,12 +247,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Reservas\\Details.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T16:49:17.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:49:17.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Confirmacion.cshtml",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Views\\Shared\\Confirmacion.cshtml",
               "RelativeDocumentMoniker": "AlquilerMVC\\Views\\Shared\\Confirmacion.cshtml",
@@ -271,12 +259,11 @@
               "RelativeToolTip": "AlquilerMVC\\Views\\Shared\\Confirmacion.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T16:48:15.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:48:15.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ReservasController.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Controllers\\ReservasController.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Controllers\\ReservasController.cs",
@@ -284,12 +271,11 @@
               "RelativeToolTip": "AlquilerMVC\\Controllers\\ReservasController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:47:20.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:47:20.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20240925164620_reservas.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Migrations\\ReservasDb\\20240925164620_reservas.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Migrations\\ReservasDb\\20240925164620_reservas.cs",
@@ -297,12 +283,11 @@
               "RelativeToolTip": "AlquilerMVC\\Migrations\\ReservasDb\\20240925164620_reservas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:46:20.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:46:20.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "20240925164605_app.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Migrations\\20240925164605_app.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Migrations\\20240925164605_app.cs",
@@ -310,12 +295,11 @@
               "RelativeToolTip": "AlquilerMVC\\Migrations\\20240925164605_app.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:46:05.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:46:05.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Data\\ApplicationDbContext.cs",
@@ -323,12 +307,11 @@
               "RelativeToolTip": "AlquilerMVC\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:43:58.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:43:58.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "ReservasDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Data\\ReservasDbContext.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Data\\ReservasDbContext.cs",
@@ -336,12 +319,11 @@
               "RelativeToolTip": "AlquilerMVC\\Data\\ReservasDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:43:56.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T16:43:56.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\ExamenFinalPOONet\\AlquilerMVC\\AlquilerMVC\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "AlquilerMVC\\Models\\Reserva.cs",

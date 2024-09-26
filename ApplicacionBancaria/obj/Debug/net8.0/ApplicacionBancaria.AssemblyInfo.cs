@@ -11,14 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-AlquilerMVC-170daa9c-d00c-4eb3-9200-e68af5ca449a")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("AlquilerMVC")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ApplicacionBancaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bbc61c095a8a695fcc4e929ffb8cd039d1a136")]
-[assembly: System.Reflection.AssemblyProductAttribute("AlquilerMVC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AlquilerMVC")]
+[assembly: System.Reflection.AssemblyProductAttribute("ApplicacionBancaria")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ApplicacionBancaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
